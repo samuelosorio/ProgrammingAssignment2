@@ -1,4 +1,4 @@
-## This functions create a special "matrix" object that can cache its inverse, and compute the 
+## These functions create a special "matrix" object that can cache its inverse, and compute the 
 ## inverse of the special "matrix" returned. If the inverse has already been calculated
 ## (and the matrix has not changed), then the cachesolve should retrieve the inverse from the cache.
 ## We assume that the matrix supplied is always invertible.
